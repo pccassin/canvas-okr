@@ -1,6 +1,6 @@
 # CANVAS OKR
 
-Aqui você encontra os Canvas OKR criados por mim e pelo Erick Szekeres para utiliza nas suas definições de OKRs
+Aqui você encontra os Canvas OKR criados por mim (Paulo Cassin) e pelo Erick Szekeres para utilizar nas suas definições de OKRs
 
 ## Como facilitar a definição de OKRs com o Canvas?
 
