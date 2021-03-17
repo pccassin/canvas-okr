@@ -20,6 +20,8 @@ O Canvas é dividio em dois. Parte 1, onde é possível definir os Objetivos e P
 Pronto! Se você executou os passos acima já tem seus Objetivos e Resultados Chave definidos.
 
 
+#### Quer aprender mais sobre OKRs, veja o conteúdo da palestra:
+https://speakerdeck.com/pccassin/concentre-se-no-que-importa-com-okrs
 
 ###### Dúvidas? Envie um e-mail para: pccassin@gmail.com ou work.erick@gmail.com
 
