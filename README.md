@@ -21,7 +21,7 @@ Pronto! Se você executou os passos acima já tem seus Objetivos e Resultados Ch
 
 
 #### Quer aprender mais sobre OKRs, veja o conteúdo das palestras abaixo:
-[VER SLIDES - Canvas OKR em 7 passos](https://speakerdeck.com/pccassin/canvas-okr-objetivos-e-resultados-chave-em-7-passos){: .btn}
+[VER SLIDES - Canvas OKR em 7 passos](https://speakerdeck.com/pccassin/canvas-okr-objetivos-e-resultados-chave-em-7-passos){: .btn} | 
 [VER SLIDES - Concentre-se no que importa](https://speakerdeck.com/pccassin/concentre-se-no-que-importa-com-okrs){: .btn}
 ###### Dúvidas? Envie um e-mail para: pccassin@gmail.com ou work.erick@gmail.com
 
